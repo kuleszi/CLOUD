@@ -1,0 +1,6 @@
+@PosterStoreApi_HostAddress = http://localhost:5274
+
+GET {{PosterStoreApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
